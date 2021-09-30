@@ -1,5 +1,4 @@
-### Olá! Meu nome é João Paulo
-
+### Olá! Meu nome é João Paulo.
 
 - 🔭 Sou Desenvolvedor de software embarcado no Instituto de Pesquisas Eldorado
 - 🌱 Atualmente estou estudando sobre linux e android embarcado
@@ -14,23 +13,23 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bispo27&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
-  ##  SKILLS
+  ###  SKILLS
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
     <img align="center" alt="BitBucket" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" >
     <img align="center" alt="C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
+    <img align="center" alt="Cembedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
     <img align="center" alt="C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" >
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
-    <img align="center" alt="raspiberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+    <img align="center" alt="raspiberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" >
     <img align="center" alt="Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
     <img align="right" alt="pendulo-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/XZUnW9AKhvrACNAXVh/200.webp?cid=ecf05e47vb3cwghme30b64chkwuflkuso0dpoe4tcuaoyico&rid=200.webp&ct=g">
 </div>
   
   ## 
+  
   ## Redes Sociais
 
   <div> 
