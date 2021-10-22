@@ -4,7 +4,7 @@
 
 - 🔭 Sou Desenvolvedor de software embarcado no Instituto de Pesquisas Eldorado
 - 🌱 Atualmente estou estudando sobre linux e android embarcado
-- ✍ Sou graduando em Engenharia de Controle e Automação pela Universidade Federal de Itajubá
+- ✍ Sou graduando em Engenharia de Controle e Automação na Universidade Federal de Itajubá
 - 🐱‍🏍 Desenvolvedor de projetos IoT
 - 🦿🤖 Apaixonado por robótica
 - 🛰🚀 Apaixonado por tecnologias Aeroespaciais
